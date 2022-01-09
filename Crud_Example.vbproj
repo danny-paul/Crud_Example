@@ -200,7 +200,6 @@
     <Content Include="Content\Site.css" />
     <Content Include="Content\sweetalert2.css" />
     <Content Include="Database\Crud_Database.accdb" />
-    <Content Include="Database\New folder\Crud_Database.accdb" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
